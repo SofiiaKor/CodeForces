@@ -11,8 +11,4 @@
     <None Remove="CodeForces\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Tasks\" />
-  </ItemGroup>
-
 </Project>
