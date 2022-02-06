@@ -32,6 +32,8 @@ namespace CodeForces.UnitTests.TasksTests
         [InlineData(1, 2, 3)]
         [InlineData(-4, -6, -10)]
         [InlineData(-2, 2, 0)]
+        [InlineData(-2, 15, 13)]
+        [InlineData(-2, 16, 14)]
         [InlineData(int.MinValue, -1, int.MaxValue)]
         public void CanAddTheory(int a, int b, int expectedResult)
         {
