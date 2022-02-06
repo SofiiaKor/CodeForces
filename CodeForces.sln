@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeForces", ".\CodeForces\CodeForces.csproj", "{40882824-703D-44E4-A7E2-221CA2286063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeForces.UnitTests", ".\CodeForces.UnitTests\CodeForces.UnitTests.csproj", "{3BB51ACB-3E11-463E-8385-94A31D2B8DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40882824-703D-44E4-A7E2-221CA2286063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40882824-703D-44E4-A7E2-221CA2286063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40882824-703D-44E4-A7E2-221CA2286063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40882824-703D-44E4-A7E2-221CA2286063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB51ACB-3E11-463E-8385-94A31D2B8DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB51ACB-3E11-463E-8385-94A31D2B8DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB51ACB-3E11-463E-8385-94A31D2B8DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB51ACB-3E11-463E-8385-94A31D2B8DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9F72F4-5D8D-4F8F-9FB3-241535819164}
+	EndGlobalSection
+EndGlobal
